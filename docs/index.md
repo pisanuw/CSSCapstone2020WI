@@ -1,4 +1,6 @@
-# UWB CSS Colloquim - 20 Mar 2020
+# UWB CSS Colloquim
+
+20 Mar 2020
 
 **http://bit.ly/css2020winter**
 
