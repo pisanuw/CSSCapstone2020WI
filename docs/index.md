@@ -10,45 +10,17 @@
 |---          | ---    | ---    | ---    | ---    | 
 |Posters      | ---    | ---    | ---    | ---    | 
 |Zoom      | [link1](https://washington.zoom.us/my/uwbcsscq1)    | [link2](https://washington.zoom.us/my/uwbcsscq2)    | [link3](https://washington.zoom.us/my/uwbcsscq3)   | [link4](https://washington.zoom.us/my/uwbcsscq4)    | 
-|12:30 | Brandon Kinard
- | Khaoula Bahloul
- | Zachary Brader
- | R4 |
-|12:45 | Shelby Mirziteh
- | Jakob Delzer
- | R3 | R4 |
-|1:00 | Ngoc Duy Nguyen
- | Rayyan Hussain
- | Grace Chang
- | R4 |
-|1:15 | Ethan Silvas
- | Billy Huynh
- | Aaron Handjojo
- | R4 |
-|1:30 | Mitchell Kane
- | Chelsea IP
- | Gi Lee | R4 |
-|1:45 | Allan Luu
- | Abbad Vakil
- | Sneha Ravivhandran
- | R4 |
-|2:00 | JD Mauthe
- | Kyle Lotterer
- | Juan Arias
- | R4 |
-|2:15 | Pratit Vithalani
- | Umair Qureshi
- | Patrick Dodd
- | R4 |
-|2:30 | x | Emily Krasser
- | Omar Iqbal
- | R4 |
-|2:45 | x | Samuel Krogh
- | Pranav Sakthivel
- | R4 |
-|3:00 | x | Joel Maxwell
- | x
- | R4 |
+|12:30 | Brandon Kinard | Khaoula Bahloul | Zachary Brader | Kaib Cropley|
+|12:45 | Shelby Mirziteh | Jakob Delzer | R3 | Emir Dzaferovic |
+|1:00 | Ngoc Duy Nguyen | Rayyan Hussain | Grace Chang | Chyanne Haugen |
+|1:15 | Ethan Silvas | Billy Huynh | Aaron Handjojo | Joshua Landron |
+|1:30 | Mitchell Kane | Chelsea IP | Gi Lee | R4 |
+|1:45 | Allan Luu | Abbad Vakil | Sneha Ravivhandran | Tyler Malan |
+|2:00 | JD Mauthe | Kyle Lotterer | Juan Arias | Brian Tang |
+|2:15 | Pratit Vithalani | Umair Qureshi | Patrick Dodd | Kevin Wang |
+|2:30 | x | Emily Krasser | Omar Iqbal | Brian Hou |
+|2:45 | x | Samuel Krogh | Pranav Sakthivel | Trenton Mueller |
+|3:00 | x | Joel Maxwell | x | x |
 
 
 
