@@ -2,7 +2,7 @@
 
 **For students**: Submit your poster and presentation via [Canvas site](https://canvas.uw.edu/courses/1377693)
 
-**For attendees**: Click on the Zoom link below, to connect to the session
+**For attendees**: All posters can be found in [this Google folder](https://drive.google.com/drive/folders/1FchhknU1J87lWFoMQUv--Vyomt6eDnl3?usp=sharing). Click on the Zoom link below, to connect to the session
 
 ## Sessions Overview
 
