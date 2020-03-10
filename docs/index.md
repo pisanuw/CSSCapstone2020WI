@@ -32,39 +32,40 @@
     <th>Room-1 Posters</th><th>Room-2 Posters</th><th>Room-3 Posters</th><th>Room-4 Posters</th>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
   <tr>
-    <td>1</td><td>2</td><td>3</td><td>4</td>
+    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
   </tr>
 </table>
+
 
 ---
 
