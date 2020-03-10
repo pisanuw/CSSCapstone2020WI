@@ -8,7 +8,7 @@
 
 |---          | **Room-1** | **Room-2** | **Room-3** | **Room-4** |
 |---          | ---    | ---    | ---    | ---    | 
-|Zoom      | [link1](https://washington.zoom.us/my/uwbcsscq1)    | [link2](https://washington.zoom.us/my/uwbcsscq2)    | [link3](https://washington.zoom.us/my/uwbcsscq3)   | [link4](https://washington.zoom.us/my/uwbcsscq4)    | 
+|Zoom      | [Room-1 Zoom](https://washington.zoom.us/my/uwbcsscq1)    | [Room-2 Zoom](https://washington.zoom.us/my/uwbcsscq2)    | [Room-3 Zoom](https://washington.zoom.us/my/uwbcsscq3)   | [Room-4 Zoom](https://washington.zoom.us/my/uwbcsscq4)    | 
 |**12:30** | Brandon Kinard | Khaoula Bahloul | Zachary Brader | Kaib Cropley|
 |**12:45**| Shelby Mirziteh | Jakob Delzer | Grace Chang | Emir Dzaferovic |
 |**1:00**| Ngoc Duy Nguyen | Rayyan Hussain | Aaron Handjojo | Chyanne Haugen |
