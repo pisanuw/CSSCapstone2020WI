@@ -10,7 +10,7 @@
 |---          | ---    | ---    | ---    | ---    | 
 |Posters      | ---    | ---    | ---    | ---    | 
 |Zoom      | [link1](https://washington.zoom.us/my/uwbcsscq1)    | [link2](https://washington.zoom.us/my/uwbcsscq2)    | [link3](https://washington.zoom.us/my/uwbcsscq3)   | [link4](https://washington.zoom.us/my/uwbcsscq4)    | 
-|12:30 | Brandon Kinard | Khaoula Bahloul | Zachary Brader | Kaib Cropley|
+|**12:30** | Brandon Kinard | Khaoula Bahloul | Zachary Brader | Kaib Cropley|
 |12:45 | Shelby Mirziteh | Jakob Delzer | Grace Chang | Emir Dzaferovic |
 |1:00 | Ngoc Duy Nguyen | Rayyan Hussain | Aaron Handjojo | Chyanne Haugen |
 |1:15 | Ethan Silvas | Billy Huynh | Gi Lee | Joshua Landron |
