@@ -1,5 +1,7 @@
 # UWB CSS Colloquim - 20 Mar 2020
 
+**http://bit.ly/css2020winter**
+
 **For students**: Submit your poster and presentation via [Canvas site](https://canvas.uw.edu/courses/1377693)
 
 **For attendees**: All posters can be found in [this Google folder](https://drive.google.com/drive/folders/1FchhknU1J87lWFoMQUv--Vyomt6eDnl3?usp=sharing). To view the presentations, follow the Zoom link below for the room.
