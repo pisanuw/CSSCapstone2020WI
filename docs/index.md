@@ -26,9 +26,9 @@
 ## Posters Overview
 
 <table>
-  <th>
-    <td>Room-1 Posters</td><td>Room-2 Posters</td><td>Room-3 Posters</td><td>Room-4 Posters</td>
-  </th>
+  <tr>
+    <th>Room-1 Posters</th><td>Room-2 Posters</th><th>Room-3 Posters</th><th>Room-4 Posters</th>
+  </tr>
   <tr>
     <td>1</td><td>2</td><td>3</td><td>4</td>
   </tr>
