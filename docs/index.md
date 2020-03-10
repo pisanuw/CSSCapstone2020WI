@@ -8,22 +8,52 @@
 
 **For attendees**: All posters can be found in [this Google folder](https://drive.google.com/drive/folders/1FchhknU1J87lWFoMQUv--Vyomt6eDnl3?usp=sharing) or by clicking on the thumbnail below. To view the presentations, follow the Zoom link below for the room.
 
-## Sessions Overview
+<h2>Sessions Overview</h2>
 
-| ---     | **Room-1** | **Room-2** | **Room-3** | **Room-4** |
-| ---     | ---        | ---        | ---        | ---        | 
-| ---     | [Room-1 Zoom](https://washington.zoom.us/my/uwbcsscq1) | [Room-2 Zoom](https://washington.zoom.us/my/uwbcsscq2) | [Room-3 Zoom](https://washington.zoom.us/my/uwbcsscq3) | [Room-4 Zoom](https://washington.zoom.us/my/uwbcsscq4) | 
-|**12:30** | Brandon Kinard | Khaoula Bahloul | Zachary Brader | Kaib Cropley|
-|**12:45**| Shelby Mirziteh | Jakob Delzer | Grace Chang | Emir Dzaferovic |
-|**1:00**| Ngoc Duy Nguyen | Rayyan Hussain | Aaron Handjojo | Chyanne Haugen |
-|**1:15**| Ethan Silvas | Billy Huynh | Gi Lee | Joshua Landron |
-|**1:30**| Mitchell Kane | Chelsea IP | Sneha Ravivhandran | Tyler Malan |
-|**1:45**| Allan Luu | Abbad Vakil | Juan Arias | Brian Tang |
-|**2:00**| JD Mauthe | Kyle Lotterer | Patrick Dodd | Kevin Wang |
-|**2:15**| Pratit Vithalani | Umair Qureshi | Omar Iqbal | Brian Hou |
-|**2:30**| . | Emily Krasser | Pranav Sakthivel | Trenton Mueller |
-|**2:45**| . | Samuel Krogh | Manvir Singh | . |
-|**3:00**| . | Joel Maxwell | . | . |
+<table style="width100%;padding=0px;border-spacing=0px">
+  <tr>
+    <td> ---     </td><td> **Room-1** </td><td> **Room-2** </td><td> **Room-3** </td><td> **Room-4** </td>
+  </tr>
+  <tr>
+    <td> ---     </td><td> ---        </td><td> ---        </td><td> ---        </td><td> ---        </td>
+  </tr>
+  <tr>
+    <td> ---     </td><td> [Room-1 Zoom](https://washington.zoom.us/my/uwbcsscq1) </td><td> [Room-2 Zoom](https://washington.zoom.us/my/uwbcsscq2) </td><td> [Room-3 Zoom](https://washington.zoom.us/my/uwbcsscq3) </td><td> [Room-4 Zoom](https://washington.zoom.us/my/uwbcsscq4) </td>
+  </tr>
+  <tr>
+    <td> <strong>12:30</strong> </td><td> Brandon Kinard </td><td> Khaoula Bahloul </td><td> Zachary Brader </td><td> Kaib Cropley</td>
+  </tr>
+  <tr>
+    <td> <strong>12:45</strong></td><td> Shelby Mirziteh </td><td> Jakob Delzer </td><td> Grace Chang </td><td> Emir Dzaferovic </td>
+  </tr>
+  <tr>
+    <td> <strong>1:00</strong></td><td> Ngoc Duy Nguyen </td><td> Rayyan Hussain </td><td> Aaron Handjojo </td><td> Chyanne Haugen </td>
+  </tr>
+  <tr>
+    <td> <strong>1:15</strong></td><td> Ethan Silvas </td><td> Billy Huynh </td><td> Gi Lee </td><td> Joshua Landron </td>
+  </tr>
+  <tr>
+    <td> <strong>1:30</strong></td><td> Mitchell Kane </td><td> Chelsea IP </td><td> Sneha Ravivhandran </td><td> Tyler Malan </td>
+  </tr>
+  <tr>
+    <td> <strong>1:45</strong></td><td> Allan Luu </td><td> Abbad Vakil </td><td> Juan Arias </td><td> Brian Tang </td>
+  </tr>
+  <tr>
+    <td> <strong>2:00</strong></td><td> JD Mauthe </td><td> Kyle Lotterer </td><td> Patrick Dodd </td><td> Kevin Wang </td>
+  </tr>
+  <tr>
+    <td> <strong>2:15</strong></td><td> Pratit Vithalani </td><td> Umair Qureshi </td><td> Omar Iqbal </td><td> Brian Hou </td>
+  </tr>
+  <tr>
+    <td> <strong>2:30</strong></td><td> . </td><td> Emily Krasser </td><td> Pranav Sakthivel </td><td> Trenton Mueller </td>
+  </tr>
+  <tr>
+    <td> <strong>2:45</strong></td><td> . </td><td> Samuel Krogh </td><td> Manvir Singh </td><td> . </td>
+  </tr>
+  <tr>
+    <td> <strong>3:00</strong></td><td> . </td><td> Joel Maxwell </td><td> . </td><td> . </td>
+  </tr>
+</table>
 
 ## Posters Overview
 
