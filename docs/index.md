@@ -2,13 +2,12 @@
 
 **For students**: Submit your poster and presentation via [Canvas site](https://canvas.uw.edu/courses/1377693)
 
-**For attendees**: All posters can be found in [this Google folder](https://drive.google.com/drive/folders/1FchhknU1J87lWFoMQUv--Vyomt6eDnl3?usp=sharing). Click on the Zoom link below, to connect to the session
+**For attendees**: All posters can be found in [this Google folder](https://drive.google.com/drive/folders/1FchhknU1J87lWFoMQUv--Vyomt6eDnl3?usp=sharing). To view the presentations, follow the Zoom link below for the room.
 
 ## Sessions Overview
 
-|---          | Room-1 | Room-2 | Room-3 | Room-4 |
+|---          | **Room-1** | **Room-2** | **Room-3** | **Room-4** |
 |---          | ---    | ---    | ---    | ---    | 
-|Posters      | ---    | ---    | ---    | ---    | 
 |Zoom      | [link1](https://washington.zoom.us/my/uwbcsscq1)    | [link2](https://washington.zoom.us/my/uwbcsscq2)    | [link3](https://washington.zoom.us/my/uwbcsscq3)   | [link4](https://washington.zoom.us/my/uwbcsscq4)    | 
 |**12:30** | Brandon Kinard | Khaoula Bahloul | Zachary Brader | Kaib Cropley|
 |**12:45**| Shelby Mirziteh | Jakob Delzer | Grace Chang | Emir Dzaferovic |
