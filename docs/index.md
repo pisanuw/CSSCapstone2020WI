@@ -11,16 +11,16 @@
 |Posters      | ---    | ---    | ---    | ---    | 
 |Zoom      | [link1](https://washington.zoom.us/my/uwbcsscq1)    | [link2](https://washington.zoom.us/my/uwbcsscq2)    | [link3](https://washington.zoom.us/my/uwbcsscq3)   | [link4](https://washington.zoom.us/my/uwbcsscq4)    | 
 |12:30 | Brandon Kinard | Khaoula Bahloul | Zachary Brader | Kaib Cropley|
-|12:45 | Shelby Mirziteh | Jakob Delzer | R3 | Emir Dzaferovic |
-|1:00 | Ngoc Duy Nguyen | Rayyan Hussain | Grace Chang | Chyanne Haugen |
-|1:15 | Ethan Silvas | Billy Huynh | Aaron Handjojo | Joshua Landron |
-|1:30 | Mitchell Kane | Chelsea IP | Gi Lee | R4 |
-|1:45 | Allan Luu | Abbad Vakil | Sneha Ravivhandran | Tyler Malan |
-|2:00 | JD Mauthe | Kyle Lotterer | Juan Arias | Brian Tang |
-|2:15 | Pratit Vithalani | Umair Qureshi | Patrick Dodd | Kevin Wang |
-|2:30 | x | Emily Krasser | Omar Iqbal | Brian Hou |
-|2:45 | x | Samuel Krogh | Pranav Sakthivel | Trenton Mueller |
-|3:00 | x | Joel Maxwell | x | x |
+|12:45 | Shelby Mirziteh | Jakob Delzer | Grace Chang | Emir Dzaferovic |
+|1:00 | Ngoc Duy Nguyen | Rayyan Hussain | Aaron Handjojo | Chyanne Haugen |
+|1:15 | Ethan Silvas | Billy Huynh | Gi Lee | Joshua Landron |
+|1:30 | Mitchell Kane | Chelsea IP | Sneha Ravivhandran | Tyler Malan |
+|1:45 | Allan Luu | Abbad Vakil | Juan Arias | Brian Tang |
+|2:00 | JD Mauthe | Kyle Lotterer | Patrick Dodd | Kevin Wang |
+|2:15 | Pratit Vithalani | Umair Qureshi | Omar Iqbal | Brian Hou |
+|2:30 | . | Emily Krasser | Pranav Sakthivel | Trenton Mueller |
+|2:45 | . | Samuel Krogh | . | . |
+|3:00 | . | Joel Maxwell | . | . |
 
 
 
