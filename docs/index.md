@@ -27,42 +27,43 @@
 
 ## Posters Overview
 
+<img src="./images/sample.jpg" alt="..." width="64" height="36">
 <table>
   <tr>
     <th>Room-1 Posters</th><th>Room-2 Posters</th><th>Room-3 Posters</th><th>Room-4 Posters</th>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
   <tr>
-    <td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td><td><img src="./images/sample.jpg" alt="..." width="60" height="80"></td>
+    <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
 </table>
 
