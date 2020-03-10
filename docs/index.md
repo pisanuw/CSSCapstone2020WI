@@ -29,9 +29,6 @@
 
 <table style="width100%;padding=0px;border-spacing=0px">
   <tr>
-    <th>Room-1 Posters</th><th>Room-2 Posters</th><th>Room-3 Posters</th><th>Room-4 Posters</th>
-  </tr>
-  <tr>
     <td><img src="./images/sample.jpg" alt="..." width="128" height="72"></td><td><img src="./images/sample.jpg" alt="..." width="128" height="72"></td><td><img src="./images/sample.jpg" alt="..." width="128" height="72"></td><td><img src="./images/sample.jpg" alt="..." width="128" height="72"></td>
   </tr>
   <tr>
