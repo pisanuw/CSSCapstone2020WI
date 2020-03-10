@@ -10,15 +10,18 @@
 |---          | ---    | ---    | ---    | ---    | 
 |Posters      | ---    | ---    | ---    | ---    | 
 |Zoom      | [link1](https://washington.zoom.us/my/uwbcsscq1)    | [link2](https://washington.zoom.us/my/uwbcsscq2)    | [link3](https://washington.zoom.us/my/uwbcsscq3)   | [link4](https://washington.zoom.us/my/uwbcsscq4)    | 
-|12:00| R1     | R2     | R3     | R4 |
-|12:15| R1     | R2     | R3     | R4 |
-|12:30| R1     | R2     | R3     | R4 |
-|12:45| R1     | R2     | R3     | R4 |
-|1:00| R1     | R2     | R3     | R4 |
-|1:15| R1     | R2     | R3     | R4 |
-|1:30| R1     | R2     | R3     | R4 |
-|1:45| R1     | R2     | R3     | R4 |
-|2:00| R1     | R2     | R3     | R4 |
+|12:30 | R1 | R2 | R3 | R4 |
+|12:45 | R1 | R2 | R3 | R4 |
+|1:00 | R1 | R2 | R3 | R4 |
+|1:15 | R1 | R2 | R3 | R4 |
+|1:30 | R1 | R2 | R3 | R4 |
+|1:45 | R1 | R2 | R3 | R4 |
+|2:00 | R1 | R2 | R3 | R4 |
+|2:15 | R1 | R2 | R3 | R4 |
+|2:30 | R1 | R2 | R3 | R4 |
+|2:45 | R1 | R2 | R3 | R4 |
+|3:00 | R1 | R2 | R3 | R4 |
+
 
 
 ---
@@ -221,6 +224,11 @@
 
 **Abstract:**
 
+
+---
+
+## Room-3
+
 ### Zachary Brader
 
 **Title**
@@ -230,12 +238,6 @@
 **Faculty Advisor:**
 
 **Abstract:**
-
-
-
----
-
-## Room-3
 
 ### Grace Chang
 
