@@ -27,10 +27,7 @@
 
 ## Posters Overview
 
-<table id="t01">
-  <tr>
-    <th>Room-1 Posters</th><th>Room-2 Posters</th><th>Room-3 Posters</th><th>Room-4 Posters</th>
-  </tr>
+<table style="width100%;padding=0px;border-spacing=0px">
   <tr>
     <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
@@ -65,6 +62,7 @@
     <td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td><td><img src="./images/sample.jpg" alt="..." width="64" height="36"></td>
   </tr>
 </table>
+
 
 
 
