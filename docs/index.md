@@ -4,7 +4,7 @@
 
 **For students**: Submit your poster and presentation via [Canvas site](https://canvas.uw.edu/courses/1377693)
 
-**For attendees**: All posters can be found in [this Google folder](https://drive.google.com/drive/folders/1FchhknU1J87lWFoMQUv--Vyomt6eDnl3?usp=sharing). To view the presentations, follow the Zoom link below for the room.
+**For attendees**: All posters can be found in [this Google folder](https://drive.google.com/drive/folders/1FchhknU1J87lWFoMQUv--Vyomt6eDnl3?usp=sharing) or by clicking on the thumbnail below. To view the presentations, follow the Zoom link below for the room.
 
 ## Sessions Overview
 
@@ -23,7 +23,46 @@
 |**2:45**| . | Samuel Krogh | Manvir Singh | . |
 |**3:00**| . | Joel Maxwell | . | . |
 
+## Posters Overview
 
+<table>
+  <th>
+    <td>Room-1 Posters</td><td>Room-2 Posters</td><td>Room-3 Posters</td><td>Room-4 Posters</td>
+  </th>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+  <tr>
+    <td>1</td><td>2</td><td>3</td><td>4</td>
+  </tr>
+</table>
 
 ---
 
