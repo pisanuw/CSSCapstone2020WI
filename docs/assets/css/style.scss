@@ -2,8 +2,12 @@
 
 @import "{{ jekyll-theme-minimal }}";
 
- table, td, th {
+table, td, th {
    border: 1px solid black;
  }
 
+#wrapper {
+  background: lightblue;
+  width: 800px;
+}
 
