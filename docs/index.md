@@ -19,7 +19,7 @@
 |2:00 | JD Mauthe | Kyle Lotterer | Patrick Dodd | Kevin Wang |
 |2:15 | Pratit Vithalani | Umair Qureshi | Omar Iqbal | Brian Hou |
 |2:30 | . | Emily Krasser | Pranav Sakthivel | Trenton Mueller |
-|2:45 | . | Samuel Krogh | . | . |
+|2:45 | . | Samuel Krogh | Manvir Singh | . |
 |3:00 | . | Joel Maxwell | . | . |
 
 
